@@ -1,16 +1,16 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #fffdf9;
-    color: #333;
+    color: #4ded4f;
     margin: 0;
     padding: 0;
   }
   
   header {
-    background-color: #f7c59f;
+    background-color: #1d92e5;
     padding: 2rem;
     text-align: center;
-    color: #3d3d3d;
+    color: #33e806;
   }
   
   main {
@@ -18,7 +18,7 @@ body {
   }
   
   h1, h2 {
-    color: #a0522d;
+    color: #5d64cc;
   }
   
   .gallery {
@@ -36,7 +36,7 @@ body {
     width: 250px;
     height: auto;
     border-radius: 10px;
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 2px 2px 8px rgba(200, 3, 3, 0.1);
     transition: transform 0.3s ease;
   }
   
@@ -46,7 +46,7 @@ body {
   
   footer {
     text-align: center;
-    background-color: #fcecd3;
+    background-color: #af0f72;
     padding: 1rem;
     margin-top: 3rem;
     font-size: 0.9rem;
